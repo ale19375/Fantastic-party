@@ -1,0 +1,55 @@
+body {
+    font-family: sans-serif;
+    font-size:20px;
+}
+.discount {
+    border: 3px solid blue;
+    border-radius:8px;
+    text-decoration: none;
+    background-color: blue;
+    color:white;
+}
+header {
+    border: 5px solid blue;
+    border-radius:10px;
+    padding:5px;
+}
+.i {
+    text-align:center;
+    border: 0.1px solid blue;
+    border-radius:7px;
+    background-color: aquamarine;
+    color:darkcyan;
+}
+footer {
+    border:5px solid darkblue;
+    border-radius: 12px;
+}
+footer p {
+    background-color: darkslategray;
+    color:white;
+}
+nav {
+    border: 1px solid blue;
+    border-radius:9px;
+    background-color:mediumblue;
+}
+nav a {
+    color:lightblue;
+    text-decoration: none;
+}
+.imaga {
+    border:1px solid lightseagreen;
+    border-radius:7px;
+    background-color: blue;
+}
+h2 {
+    color:blue;
+}
+a {
+    border:1px solid blue;
+    border-radius:9px;
+    text-decoration:none;
+    color:white;
+    background-color: blue;
+}
